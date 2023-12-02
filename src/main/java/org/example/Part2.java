@@ -1,2 +1,4 @@
-package org.example;public class Part2 {
+package org.example;
+
+public class Part2 {
 }
